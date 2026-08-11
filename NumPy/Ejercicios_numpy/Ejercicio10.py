@@ -23,6 +23,7 @@ def dashboard(matriz):
     varianza = np.var(matriz)
     desviacion_estandar = np.std(matriz)
 
+    # Imprimir resultados
     print(f"Dimensiones de la matriz: {dimension}")
     print(f"Filas: {filas}")
     print(f"Columnas: {columnas}")

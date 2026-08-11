@@ -2,21 +2,27 @@ import numpy as np
 
 # Ejercicio 3: Análisis académico
 
+print("Análisis académico")
+
+# Generar una matriz de notas aleatorias para 40 estudiantes en 5 asignaturas
 notas = np.random.randint(0, 15, size=(40, 5))
 print("Matriz de notas (filas=estudiantes, columnas=asignaturas):")
 print(notas)
 
+# Calcular promedios
 promedio_estudiantes = np.mean(notas, axis=1)
 promedio_asignaturas = np.mean(notas, axis=0)
 
+# Identificar el mejor y peor estudiante
 mejor_estudiante = np.argmax(promedio_estudiantes) + 1
 peor_estudiante = np.argmin(promedio_estudiantes) + 1
 
+# Calcular la cantidad de estudiantes aprobados y reprobados
 aprobados_por_estudiantes = np.sum(notas >= 11, axis=1)
-
 aprobados = np.sum(aprobados_por_estudiantes >= 1)
 reprobados = np.sum(aprobados_por_estudiantes < 1)
 
+# Imprimir resultados
 print(f"Promedio de cada estudiante: {promedio_estudiantes}")
 print(f"Promedio de cada asignatura: {promedio_asignaturas}")
 print(f"Mejor estudiante: Estudiante {mejor_estudiante} con promedio {promedio_estudiantes[mejor_estudiante-1]}")

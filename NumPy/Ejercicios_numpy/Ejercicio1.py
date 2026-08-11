@@ -10,7 +10,7 @@ temperaturas = np.random.uniform(15, 35, size=30)
 # Redondear las temperaturas a un decimal
 temperaturas = np.round(temperaturas, 1)
 
-# Calcular estadísticas
+# Calcular estadísticas de las temperaturas
 prom = np.mean(temperaturas)
 máxima = np.max(temperaturas)
 mínima = np.min(temperaturas)
