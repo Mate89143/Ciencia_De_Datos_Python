@@ -1,0 +1,101 @@
+﻿id_venta,fecha,cliente,ciudad,vendedor,producto,categoria,cantidad,precio_unitario,descuento,total_venta
+1,2026-01-15,Constructora Central,Bello,Carlos,Escritorio,Muebles,4,680000,0%,2720000.0
+2,2026-08-03,Constructora Central,Bello,Fernanda,Escritorio,Muebles,10,680000,10%,6120000.0
+3,2026-05-30,Servicios El Dorado,Medellín,Fernanda,Archivador,Oficina,8,320000,10%,2304000.0
+4,2026-07-07,Servicios El Dorado,Bogotá,Fernanda,Silla Ergonómica,Muebles,2,950000,15%,1615000.0
+5,2026-03-30,Comercial Andina,Cali,Valentina,Kit de Oficina,Papelería,6,65000,0%,390000.0
+6,2026-02-24,Inversiones Nova,Bogotá,Valentina,Kit de Oficina,Papelería,3,65000,15%,165750.0
+7,2026-01-21,Logística Express,Medellín,Fernanda,Audífonos Bluetooth,Tecnología,3,210000,10%,567000.0
+8,2026-01-09,Consultores del Valle,Bello,Mateo,Cuaderno Ejecutivo,Papelería,2,28000,5%,53200.0
+9,2026-01-08,Grupo Horizonte,Cartagena,Ana,"Monitor 24""",Tecnología,7,780000,15%,4641000.0
+10,2026-05-12,Soluciones Delta,Cartagena,Mateo,"Monitor 24""",Tecnología,2,780000,15%,1326000.0
+11,2026-07-10,Soluciones Delta,Medellín,Fernanda,"Monitor 24""",Tecnología,6,780000,0%,4680000.0
+12,2026-01-14,Constructora Central,Cartagena,Fernanda,Mouse Inalámbrico,Tecnología,10,85000,5%,807500.0
+13,2026-07-27,Soluciones Delta,Bello,Mateo,Cuaderno Ejecutivo,Papelería,8,28000,0%,224000.0
+14,2026-01-15,Comercial Andina,Bogotá,Ana,Cuaderno Ejecutivo,Papelería,9,28000,0%,252000.0
+15,2026-05-16,Constructora Central,Cali,Valentina,Archivador,Oficina,1,320000,15%,272000.0
+16,2026-06-12,Comercial Andina,Cali,Carlos,Laptop Pro,Tecnología,8,3200000,10%,23040000.0
+17,2026-02-10,Tecnologías Alfa,Bogotá,Fernanda,Kit de Oficina,Papelería,7,65000,5%,432250.0
+18,2026-05-31,Constructora Central,Bello,Valentina,Mouse Inalámbrico,Tecnología,1,85000,15%,72250.0
+19,2026-02-04,Comercial Andina,Cali,Carlos,Archivador,Oficina,6,320000,10%,1728000.0
+20,2026-08-06,Tecnologías Alfa,Cartagena,Valentina,Teclado Mecánico,Tecnología,1,280000,0%,280000.0
+21,2026-05-04,Grupo Horizonte,Bogotá,Fernanda,Cuaderno Ejecutivo,Papelería,10,28000,5%,266000.0
+22,2026-05-23,Inversiones Nova,Bello,Valentina,"Monitor 24""",Tecnología,5,780000,10%,3510000.0
+23,2026-03-07,Consultores del Valle,Bello,Ana,Teclado Mecánico,Tecnología,6,280000,15%,1428000.0
+24,2026-01-28,Inversiones Nova,Cartagena,Valentina,Audífonos Bluetooth,Tecnología,6,210000,15%,1071000.0
+25,2026-08-05,Tecnologías Alfa,Cartagena,Ana,Kit de Oficina,Papelería,7,65000,15%,386750.0
+26,2026-07-09,Logística Express,Barranquilla,Carlos,Laptop Pro,Tecnología,9,3200000,10%,25920000.0
+27,2026-07-17,Constructora Central,Cali,Ana,Cuaderno Ejecutivo,Papelería,3,28000,10%,75600.0
+28,2026-06-21,Constructora Central,Cali,Ana,Audífonos Bluetooth,Tecnología,1,210000,10%,189000.0
+29,2026-07-05,Inversiones Nova,Barranquilla,Mateo,"Monitor 24""",Tecnología,1,780000,5%,741000.0
+30,2026-04-23,Constructora Central,Bogotá,Valentina,Teclado Mecánico,Tecnología,1,280000,0%,280000.0
+31,2026-08-08,Distribuciones AMV,Bello,Ana,Laptop Pro,Tecnología,2,3200000,5%,6080000.0
+32,2026-05-10,Servicios El Dorado,Barranquilla,Mateo,Laptop Pro,Tecnología,3,3200000,5%,9120000.0
+33,2026-07-02,Constructora Central,Cali,Ana,Silla Ergonómica,Muebles,7,950000,15%,5652500.0
+34,2026-04-26,Soluciones Delta,Cartagena,Valentina,Silla Ergonómica,Muebles,8,950000,0%,7600000.0
+35,2026-07-06,Distribuciones AMV,Bello,Valentina,Laptop Pro,Tecnología,9,3200000,15%,24480000.0
+36,2026-03-31,Grupo Horizonte,Cali,Fernanda,"Monitor 24""",Tecnología,4,780000,10%,2808000.0
+37,2026-06-10,Constructora Central,Medellín,Ana,Escritorio,Muebles,4,680000,0%,2720000.0
+38,2026-05-31,Consultores del Valle,Cali,Fernanda,Cuaderno Ejecutivo,Papelería,9,28000,5%,239400.0
+39,2026-03-01,Comercial Andina,Medellín,Ana,Kit de Oficina,Papelería,9,65000,15%,497250.0
+40,2026-01-09,Logística Express,Cali,Valentina,Audífonos Bluetooth,Tecnología,5,210000,15%,892500.0
+41,2026-02-23,Constructora Central,Bogotá,Fernanda,Teclado Mecánico,Tecnología,4,280000,15%,952000.0
+42,2026-06-15,Constructora Central,Barranquilla,Valentina,Laptop Pro,Tecnología,8,3200000,15%,21760000.0
+43,2026-04-03,Soluciones Delta,Cartagena,Mateo,Cuaderno Ejecutivo,Papelería,3,28000,0%,84000.0
+44,2026-07-27,Logística Express,Barranquilla,Ana,Mouse Inalámbrico,Tecnología,6,85000,10%,459000.0
+45,2026-01-21,Inversiones Nova,Cali,Ana,"Monitor 24""",Tecnología,1,780000,5%,741000.0
+46,2026-04-29,Distribuciones AMV,Cartagena,Carlos,Laptop Pro,Tecnología,3,3200000,5%,9120000.0
+47,2026-01-27,Soluciones Delta,Bello,Ana,Teclado Mecánico,Tecnología,6,280000,15%,1428000.0
+48,2026-03-02,Grupo Horizonte,Barranquilla,Valentina,Laptop Pro,Tecnología,5,3200000,15%,13600000.0
+49,2026-08-08,Servicios El Dorado,Cartagena,Valentina,Laptop Pro,Tecnología,1,3200000,15%,2720000.0
+50,2026-04-03,Comercial Andina,Cartagena,Carlos,Cuaderno Ejecutivo,Papelería,5,28000,15%,119000.0
+51,2026-07-10,Servicios El Dorado,Bogotá,Valentina,Teclado Mecánico,Tecnología,1,280000,15%,238000.0
+52,2026-02-23,Consultores del Valle,Cali,Mateo,Mouse Inalámbrico,Tecnología,9,85000,5%,726750.0
+53,2026-05-07,Consultores del Valle,Medellín,Mateo,Silla Ergonómica,Muebles,7,950000,5%,6317500.0
+54,2026-05-17,Distribuciones AMV,Bello,Mateo,Laptop Pro,Tecnología,8,3200000,0%,25600000.0
+55,2026-02-19,Logística Express,Bello,Fernanda,Escritorio,Muebles,10,680000,10%,6120000.0
+56,2026-02-05,Inversiones Nova,Bogotá,Fernanda,Kit de Oficina,Papelería,7,65000,0%,455000.0
+57,2026-04-02,Soluciones Delta,Medellín,Valentina,Teclado Mecánico,Tecnología,7,280000,10%,1764000.0
+58,2026-07-09,Distribuciones AMV,Medellín,Mateo,Cuaderno Ejecutivo,Papelería,10,28000,10%,252000.0
+59,2026-06-19,Distribuciones AMV,Cartagena,Valentina,Silla Ergonómica,Muebles,1,950000,15%,807500.0
+60,2026-02-22,Servicios El Dorado,Barranquilla,Carlos,Audífonos Bluetooth,Tecnología,1,210000,15%,178500.0
+61,2026-06-17,Inversiones Nova,Bello,Mateo,"Monitor 24""",Tecnología,3,780000,10%,2106000.0
+62,2026-04-30,Grupo Horizonte,Barranquilla,Mateo,Kit de Oficina,Papelería,3,65000,0%,195000.0
+63,2026-08-06,Servicios El Dorado,Cartagena,Ana,Escritorio,Muebles,10,680000,0%,6800000.0
+64,2026-05-02,Comercial Andina,Medellín,Ana,Audífonos Bluetooth,Tecnología,1,210000,5%,199500.0
+65,2026-01-16,Tecnologías Alfa,Bello,Carlos,Archivador,Oficina,5,320000,0%,1600000.0
+66,2026-06-03,Grupo Horizonte,Bello,Ana,Escritorio,Muebles,3,680000,15%,1734000.0
+67,2026-07-09,Inversiones Nova,Bello,Fernanda,Audífonos Bluetooth,Tecnología,1,210000,5%,199500.0
+68,2026-03-26,Tecnologías Alfa,Barranquilla,Ana,Kit de Oficina,Papelería,10,65000,15%,552500.0
+69,2026-01-10,Distribuciones AMV,Bello,Fernanda,Audífonos Bluetooth,Tecnología,7,210000,5%,1396500.0
+70,2026-05-18,Consultores del Valle,Cali,Mateo,Mouse Inalámbrico,Tecnología,4,85000,10%,306000.0
+71,2026-01-04,Constructora Central,Medellín,Ana,Laptop Pro,Tecnología,8,3200000,0%,25600000.0
+72,2026-06-27,Grupo Horizonte,Barranquilla,Ana,"Monitor 24""",Tecnología,8,780000,15%,5304000.0
+73,2026-04-11,Grupo Horizonte,Bogotá,Ana,Laptop Pro,Tecnología,3,3200000,10%,8640000.0
+74,2026-02-13,Soluciones Delta,Bello,Valentina,Archivador,Oficina,10,320000,10%,2880000.0
+75,2026-03-22,Consultores del Valle,Bello,Mateo,Mouse Inalámbrico,Tecnología,3,85000,10%,229500.0
+76,2026-06-11,Grupo Horizonte,Bogotá,Fernanda,Kit de Oficina,Papelería,10,65000,5%,617500.0
+77,2026-03-16,Constructora Central,Barranquilla,Ana,Kit de Oficina,Papelería,5,65000,5%,308750.0
+78,2026-05-18,Servicios El Dorado,Bogotá,Valentina,Audífonos Bluetooth,Tecnología,9,210000,15%,1606500.0
+79,2026-02-05,Soluciones Delta,Bogotá,Carlos,Laptop Pro,Tecnología,3,3200000,15%,8160000.0
+80,2026-01-23,Logística Express,Cali,Ana,Laptop Pro,Tecnología,7,3200000,0%,22400000.0
+81,2026-03-25,Logística Express,Cartagena,Carlos,Laptop Pro,Tecnología,1,3200000,5%,3040000.0
+82,2026-05-20,Logística Express,Cali,Fernanda,Teclado Mecánico,Tecnología,1,280000,15%,238000.0
+83,2026-07-25,Inversiones Nova,Cali,Mateo,Cuaderno Ejecutivo,Papelería,7,28000,15%,166600.0
+84,2026-05-20,Logística Express,Barranquilla,Valentina,Audífonos Bluetooth,Tecnología,5,210000,10%,945000.0
+85,2026-05-31,Logística Express,Bello,Carlos,Audífonos Bluetooth,Tecnología,4,210000,0%,840000.0
+86,2026-05-22,Consultores del Valle,Bello,Valentina,Kit de Oficina,Papelería,10,65000,10%,585000.0
+87,2026-03-17,Logística Express,Medellín,Mateo,Escritorio,Muebles,2,680000,10%,1224000.0
+88,2026-06-23,Constructora Central,Medellín,Ana,Laptop Pro,Tecnología,6,3200000,10%,17280000.0
+89,2026-01-05,Servicios El Dorado,Cartagena,Valentina,Mouse Inalámbrico,Tecnología,10,85000,5%,807500.0
+90,2026-05-25,Tecnologías Alfa,Bogotá,Carlos,Archivador,Oficina,1,320000,5%,304000.0
+91,2026-06-08,Grupo Horizonte,Bello,Fernanda,"Monitor 24""",Tecnología,4,780000,5%,2964000.0
+92,2026-07-21,Consultores del Valle,Cali,Valentina,Silla Ergonómica,Muebles,7,950000,10%,5985000.0
+93,2026-08-08,Constructora Central,Bello,Ana,Mouse Inalámbrico,Tecnología,10,85000,15%,722500.0
+94,2026-07-24,Logística Express,Barranquilla,Ana,Escritorio,Muebles,1,680000,10%,612000.0
+95,2026-06-15,Servicios El Dorado,Cartagena,Mateo,Cuaderno Ejecutivo,Papelería,8,28000,0%,224000.0
+96,2026-07-22,Servicios El Dorado,Barranquilla,Valentina,Audífonos Bluetooth,Tecnología,6,210000,0%,1260000.0
+97,2026-05-26,Logística Express,Bogotá,Ana,Teclado Mecánico,Tecnología,4,280000,0%,1120000.0
+98,2026-01-03,Tecnologías Alfa,Bogotá,Valentina,Audífonos Bluetooth,Tecnología,6,210000,5%,1197000.0
+99,2026-07-23,Constructora Central,Barranquilla,Carlos,Kit de Oficina,Papelería,8,65000,5%,494000.0
+100,2026-06-13,Consultores del Valle,Medellín,Fernanda,Archivador,Oficina,10,320000,15%,2720000.0
